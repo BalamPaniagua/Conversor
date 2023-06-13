@@ -32,11 +32,11 @@ El programa cuenta con un menú interactivo que permite al usuario seleccionar l
 
 ## Instrucciones de Uso
 
-1. Clona el repositorio en tu máquina local: `git clone https://github.com/BalamPaniagua/conversor-monedas.git`
-2. Abre el proyecto en tu IDE Java preferido.
-3. Compila y ejecuta el archivo `ConversorMonedas.java`.
-4. Sigue las instrucciones en pantalla para realizar las conversiones deseadas.
-5. Para regresar al menú anterior, selecciona la opción "Otra cantidad". Para regresar al menú principal, selecciona la opción "Salir".
+1. Clona el repositorio en tu máquina local: `git clone https://github.com/BalamPaniagua/Conversor.git`
+3. Abre el proyecto en tu IDE Java preferido.
+4. Compila y ejecuta el archivo `ConversorMonedas.java`.
+5. Sigue las instrucciones en pantalla para realizar las conversiones deseadas.
+6. Para regresar al menú anterior, selecciona la opción "Otra cantidad". Para regresar al menú principal, selecciona la opción "Salir".
 
 ## Requisitos del Sistema
 
